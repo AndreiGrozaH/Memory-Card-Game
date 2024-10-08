@@ -1,0 +1,32 @@
+{
+	"BUILD_DIR" : "C:/Users/Sergiu/Documents/test_practic3/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/test_practic3_autogen",
+	"CMAKE_BINARY_DIR" : "C:/Users/Sergiu/Documents/test_practic3/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "C:/Users/Sergiu/Documents/test_practic3/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "C:/Users/Sergiu/Documents/test_practic3",
+	"CMAKE_SOURCE_DIR" : "C:/Users/Sergiu/Documents/test_practic3",
+	"INCLUDE_DIR" : "C:/Users/Sergiu/Documents/test_practic3/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/test_practic3_autogen/include",
+	"INPUTS" : 
+	[
+		"C:/Users/Sergiu/Documents/test_practic3/background.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image6.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image4.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image10.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image8.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image3.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image5.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image9.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image7.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image2.png",
+		"C:/Users/Sergiu/Documents/test_practic3/image1.png"
+	],
+	"LOCK_FILE" : "C:/Users/Sergiu/Documents/test_practic3/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/test_practic3_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "C:/Qt/6.7.1/mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "C:/Users/Sergiu/Documents/test_practic3/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/test_practic3_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "C:/Users/Sergiu/Documents/test_practic3/resources.qrc",
+	"VERBOSITY" : 0
+}
